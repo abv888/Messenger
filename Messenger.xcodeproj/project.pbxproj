@@ -38,6 +38,7 @@
 		B75818402AB24B9300FC59D6 /* NewConversationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewConversationViewController.swift; sourceTree = "<group>"; };
 		B75818422AB24BA800FC59D6 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		B75818452AB266CA00FC59D6 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		B75818472AB26C3400FC59D6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		B75818122AB2433800FC59D6 = {
 			isa = PBXGroup;
 			children = (
+				B75818472AB26C3400FC59D6 /* README.md */,
 				B758181D2AB2433800FC59D6 /* Messenger */,
 				B758181C2AB2433800FC59D6 /* Products */,
 			);
