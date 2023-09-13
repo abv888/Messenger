@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ConversationsViewController.swift
 //  Messenger
 //
 //  Created by Bagrat Arutyunov on 13.09.2023.
